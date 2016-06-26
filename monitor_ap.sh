@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Arg1 = Wifi Device
+# Arg1 = Wifi Interface
 # Arg2 = Output File
 # Arg3 = BSSID
 # Arg4 = Channel
